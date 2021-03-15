@@ -3,19 +3,21 @@
 
 ## Introduction
 
-In this project, we will build up a recommender system based on the music data provided by Spotify. By using the system, the music provider can predict and then offer the appropriate songs to their users based on the characteristics of the music that has been heard previously. It will make the suggestions based on both preference and popularity.
+In this project, we will build up a recommender system based on the music data provided by Spotify. By using the system, the music provider can predict and then offer the appropriate songs to their users based on the characteristics of the music that has been heard previously. It will make the suggestions based on both preference and popularity. Below is an overview of how we combined the clustering techniques with classification to predict the popularity score of a new song.
+
+![GitHub Logo](https://github.com/chuyu-c/A-Recommender-System-with-Clustering-and-Classification/blob/master/images/Project-Structure.png)
 
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+
+
 
 ## Project Structure
 
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
-![GitHub Logo](https://github.com/chuyu-c/A-Recommender-System-with-Clustering-and-Classification/blob/master/images/Project-Structure.png)
-Format: ![Alt Text](url)
 
 
+This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 ## Your first website
 
 **GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
