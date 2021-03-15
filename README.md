@@ -11,17 +11,17 @@ In this project, we will build up a recommender system based on the music data p
 
 ## Project Structure
 
-##### EDA
+#### EDA
 - A python file shows the interesting findings out of the spotify dataset.
-##### Modeling Methodology 
+#### Modeling Methodology 
 - Methods we used to build up the two components of the recommendation system.
   - Clustering Component
   - Popularity Component
-##### Application & Case Study
+#### Application & Case Study
 - Current solutions and next step of this recommendation system and how it could potentially be applied to real world.
 
 
-    
+<br/><br/>
 
 TO BE CONTINUED...
 
