@@ -5,7 +5,7 @@
 
 In this project, we will build up a recommender system based on the music data provided by Spotify. By using the system, the music provider can predict and then offer the appropriate songs to their users based on the characteristics of the music that has been heard previously. It will make the suggestions based on both preference and popularity. Below is an overview of how we combined the clustering techniques with classification to predict the popularity score of a new song.
 
-![GitHub Logo](https://github.com/chuyu-c/A-Recommender-System-with-Clustering-and-Classification/blob/master/images/Project-Structure.png)
+![PROJECT_STRUCTURE](https://github.com/chuyu-c/A-Recommender-System-with-Clustering-and-Classification/blob/master/images/Project-Structure.png)
 
 
 
