@@ -21,7 +21,7 @@ In this project, we will build up a recommender system based on the music data p
 - Current solutions and next step of this recommendation system and how it could potentially be applied to real world.
 
 
-<p><\p>
+    
 
 TO BE CONTINUED...
 
