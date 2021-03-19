@@ -3,6 +3,11 @@
 
 ## Introduction
 
+**Business Objective**: adds in suggested tracks that our users might like, so that they keep exploring new songs and listening to more albums. It could improve user experience and add to user stickiness.
+
+**Goal**: build a recommender system based on musical features of songs user liked / already in the playlist and the predicted popularity of the track. (i.e. User preference & popularity)
+
+
 In this project, we will build up a recommender system based on the music data provided by Spotify. By using the system, the music provider can predict and then offer the appropriate songs to their users based on the characteristics of the music that has been heard previously. It will make the suggestions based on both preference and popularity. Below is an overview of how we combined the clustering techniques with classification to predict the popularity score of a new song.
 
 ![PROJECT_STRUCTURE](https://github.com/chuyu-c/A-Recommender-System-with-Clustering-and-Classification/blob/master/images/Project-Structure.png)
@@ -12,10 +17,14 @@ In this project, we will build up a recommender system based on the music data p
 ## Project Structure
 
 #### EDA
-- A python file shows the interesting findings out of the spotify dataset.
+- Python file shows the interesting findings out of the spotify dataset.
 #### Modeling Methodology 
 - Methods we used to build up the two components of the recommendation system.
   - Clustering Component
+    - Converted duration ms to min
+    - Dropped artist column
+    - Remove outliers
+
   - Popularity Component
 #### Application & Case Study
 - Current solutions and next step of this recommendation system and how it could potentially be applied to real world.
